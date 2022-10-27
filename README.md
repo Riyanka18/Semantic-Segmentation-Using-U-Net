@@ -47,13 +47,7 @@ model did not predict object coordinates at all.
 #####Code for IoU-
 ![image](https://user-images.githubusercontent.com/67185084/192429651-4c578a36-50ee-469a-8271-1fe2e5388be7.png)
 ##### Table
-
-CNN Architecture	Backbone	    IoU (Intersection over Union)
-U-Net	            ResNet 18	             40.49
-
-U-Net	            ResNet 34	             63.01
-
-U-Net	            ResNet 50	             27.88
+![image](https://user-images.githubusercontent.com/67185084/198283578-19a8c4f1-af2f-44e0-be39-88b500e5fbac.png)
 
 ### Final Result Of prediction
 
