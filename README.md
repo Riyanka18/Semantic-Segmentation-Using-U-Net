@@ -35,7 +35,9 @@ making final prediction of segmented masks have been highlighted in the followin
 ![image](https://user-images.githubusercontent.com/67185084/192427719-1f83ace1-5bae-4937-a5d8-4de37fb3de7e.png)
 
 ##### Training and validation loss for the three backbones
-![image](https://user-images.githubusercontent.com/67185084/192429461-813f4ad0-e0cb-48d2-bb6c-07f56d23bde0.png)
+![image](https://user-images.githubusercontent.com/67185084/198282979-e35f218f-4854-439d-8ce7-1ec5d4c1a1d5.png)
+![image](https://user-images.githubusercontent.com/67185084/198283045-09420ec0-8345-4baa-b784-132d722085dd.png)
+
 
 #### IoU 
 Intersection over Union is a common evaluation metrics for semantic segmentation. It is a term used to describe the extent of overlap of two images. The greater the region of overlap, the greater the IoU. It is 
